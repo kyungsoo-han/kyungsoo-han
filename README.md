@@ -92,11 +92,6 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyungSoo-Han&show_icons=true&theme=white" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact&theme=white" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyungSoo-Han&theme=white" height="160"/>
 </p>
 
